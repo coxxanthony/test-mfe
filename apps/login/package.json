@@ -17,7 +17,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "dev": "SET PORT=3001 && node ./scripts/start.js",
+    "dev": "node ./scripts/start.js",
     "build": "node ./scripts/build.js",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
